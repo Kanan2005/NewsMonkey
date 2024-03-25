@@ -36,9 +36,9 @@ ___
 ___
 ## **Download Links** : 
 You can access my project from your local machine !
->https : https://github.com/anurag203/NewsMonkey
+>https : https://github.com/Kanan2005/NewsMonkey
 
 ```bash
-    git clone https://github.com/anurag203/NewsMonkey.git
+    git clone https://github.com/Kanan2005/NewsMonkey.git
 ```
 ___
